@@ -1,0 +1,24 @@
+p.intro {
+  font-style: italic;
+  font-size: 30px;
+  color: purple;
+  text-align: center;
+}
+
+p.marketingcopy {
+  font-style: italic;
+  font-weight: bold;
+  text-align: center;
+  color: indigo;
+}
+
+img.cupcake {
+  border-radius: 10%;
+  float: right;
+  margin: 10px;
+  }
+
+img.logo {
+    float: left;
+    margin: 20px;
+}
